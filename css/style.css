@@ -1,0 +1,51 @@
+body {
+	background-color: #61122f;
+	font-family: serif;
+}
+
+/*header*/
+#header-nav {
+	background-color: #f6b319;
+	border: 0;
+}
+
+h1.nav-brand {
+	margin: 0;
+	font-family: serif;
+  	color: #557c3e;
+  	font-size: 1.5em;
+  	text-transform: uppercase;
+  	font-weight: bold;
+  	text-shadow: 1px 1px 1px #222;
+  	line-height: .75;
+}
+
+
+button.navbar-toggle.collapsed, span.icon-bar {
+	border: 1px solid #61122f;
+	border-color: #61122f;
+	background-color: #f6b319;
+}
+
+#collapsable-nav a {
+	
+	font-family: serif;
+  	font-size: 1.5em;
+	color: #557c3e;
+}
+
+#nav-list a:hover {
+	background:#e7e7e7;
+}
+
+/*Body*/
+
+#Menu {
+	font-weight: bold;
+	color: white;
+}
+
+div.col-md-12.col-sm-12.col-xs-12 {
+	font-family: serif;
+	color: white;
+}
